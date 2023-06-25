@@ -1,0 +1,33 @@
+.header {
+    max-width: 1475;
+    width: 100%;
+    margin: 0% auto;
+    padding: 0 16px;
+}
+.header-div {
+    background-color: #0A22F4;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.contact-line {
+    background-color: white;
+    width: 160px;
+    height: 55px;
+    border-radius: 28px;
+    color: #171717;
+    text-align: center;
+    line-height: 55px;
+    
+}
+.after {
+    border-bottom: 1px solid white;
+}
+.nav-bar ul, .nav-bar{
+    display: flex;
+ flex-direction: row;
+ gap: 18px;
+ color: #FFFFFF;
+ align-items: center;
+
+}
